@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "VIN Scan Pro",
+  "description": "Scan de NIV et gestion de stock automobile par IA"
+}
